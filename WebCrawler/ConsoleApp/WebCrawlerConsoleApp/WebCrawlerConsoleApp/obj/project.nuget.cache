@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "EM7MpXWBfxY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oluse\\Documents\\GitHub\\Project48\\WebCrawler\\ConsoleApp\\WebCrawlerConsoleApp\\WebCrawlerConsoleApp\\WebCrawlerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oluse\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\azure.storage.blobs\\12.21.0\\azure.storage.blobs.12.21.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\azure.storage.common\\12.20.0\\azure.storage.common.12.20.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Oluse\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

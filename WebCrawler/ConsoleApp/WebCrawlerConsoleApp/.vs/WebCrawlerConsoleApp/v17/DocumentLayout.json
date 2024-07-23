@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oluse\\Documents\\GitHub\\Project48\\WebCrawler\\ConsoleApp\\WebCrawlerConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5E2A38-1B57-4669-8E31-64BEA8B8971D}|WebCrawlerConsoleApp\\WebCrawlerConsoleApp.csproj|c:\\users\\oluse\\documents\\github\\project48\\webcrawler\\consoleapp\\webcrawlerconsoleapp\\webcrawlerconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5E2A38-1B57-4669-8E31-64BEA8B8971D}|WebCrawlerConsoleApp\\WebCrawlerConsoleApp.csproj|solutionrelative:webcrawlerconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oluse\\Documents\\GitHub\\Project48\\WebCrawler\\ConsoleApp\\WebCrawlerConsoleApp\\WebCrawlerConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebCrawlerConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Oluse\\Documents\\GitHub\\Project48\\WebCrawler\\ConsoleApp\\WebCrawlerConsoleApp\\WebCrawlerConsoleApp\\Program.cs",
+              "RelativeToolTip": "WebCrawlerConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:02:49.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
